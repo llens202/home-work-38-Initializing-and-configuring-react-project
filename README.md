@@ -42,13 +42,13 @@ src/components/
 ### 1. Клонувати репозиторій
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+https://github.com/llens202/home-work-38-Initializing-and-configuring-react-project
 ```
 
 ### 2. Перейти до папки проєкту
 
 ```bash
-cd YOUR-REPOSITORY
+cd home-work-38-Initializing-and-configuring-react-project
 ```
 
 ### 3. Встановити залежності
@@ -82,7 +82,7 @@ src/
 
 ## 🌐 Демо
 
-[Переглянути демо проєкту](YOUR-VERCEL-LINK)
+[Переглянути демо проєкту](https://home-work-38-initializing-and-configuring-react-proj-ksmcfx45z.vercel.app/)
 
 ## 💻 Репозиторій
 
