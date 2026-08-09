@@ -42,13 +42,13 @@ src/components/
 ### 1. Клонувати репозиторій
 
 ```bash
-https://github.com/llens202/home-work-38-Initializing-and-configuring-react-project
+git clone https://github.com/llens202/home-work-38-Initializing-and-configuring-react-project.git
 ```
 
 ### 2. Перейти до папки проєкту
 
 ```bash
-cd home-work-38-Initializing-and-configuring-react-project
+cd home-work-38-Initializing-and-configuring-react-project/my-react-app
 ```
 
 ### 3. Встановити залежності
@@ -86,7 +86,7 @@ src/
 
 ## 💻 Репозиторій
 
-[GitHub](YOUR-GITHUB-LINK)
+[GitHub](https://github.com/llens202/home-work-38-Initializing-and-configuring-react-project)
 
 ## 📄 Завдання
 
